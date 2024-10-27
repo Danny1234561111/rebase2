@@ -1,2 +1,2 @@
-This is a line from feature
 This is a modified line from main
+This is a line from feature
